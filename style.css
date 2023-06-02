@@ -1,0 +1,15 @@
+.b{
+    border-radius: 20%;
+    border: 0.3rem solid rgb(92, 92, 92);
+}
+.i{
+    border-bottom: 1px solid black;
+}
+.j{
+    border-top: 1px solid rgb(155, 151, 151);
+}
+
+@media(780px>width){body{
+    background-size: cover;
+}
+}
